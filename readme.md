@@ -1,4 +1,4 @@
-Foo Bar {#welcome}
+Foo Bar
 =====================
 
 This is someone I've decided to play around with.  I think bootstrap did a good job, and it's good practice to try to recreate it.  Mine is not as elegant, but I'll for sure update it some more when I have more time.  Open to suggestions.
